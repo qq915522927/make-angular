@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --config webpack.config.js",
-    "test": "karma start"
+    "test": "karma start --browsers Chrome_with_debugging"
   },
   "author": "",
   "license": "ISC",

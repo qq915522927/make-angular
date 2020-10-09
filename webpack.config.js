@@ -24,5 +24,6 @@ module.exports = {
 		port: 8999,
 		// 自动打开浏览器
 		open: true
-	}
+	},
+	devtool: 'eval-source-map'
 };
