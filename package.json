@@ -13,6 +13,7 @@
     "html-webpack-plugin": "^4.5.0",
     "karma-jasmine": "^4.0.1",
     "karma-webpack": "^4.0.2",
+    "lodash": "^4.17.20",
     "webpack": "^4.44.2"
   },
   "devDependencies": {
